@@ -1,3 +1,3 @@
-# Programação Imperativa
+# 📕 Programação Imperativa (PI)
 
-# PI
+Este repositório contém os materiais, exercícios e projetos desenvolvidos no âmbito da unidade curricular Programação Orientada a Objetos, lecionada na licenciatura de Ciências da Computação na Universidade do Minho.
